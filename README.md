@@ -22,6 +22,10 @@ The system aims to provide a more organized and convenient way for customers and
 
 Christian Joshua Berdera contributed to the initial project repository setup, documentation, and GitHub version control workflow.
 
+## Team Contribution
+
+Christian Joshua Berdera contributed to the project repository setup, documentation, and GitHub version control workflow.
+
 ## Repository Structure
 
 ```text
