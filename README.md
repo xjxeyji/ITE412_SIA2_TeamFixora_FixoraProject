@@ -8,7 +8,7 @@
 
 * Berdera, Christian Joshua C. — Team Lead
 * Ramos Leamei — Documentation Lead
-* Cindy Lozano — Integration Lead
+* Cindy Lozano — Integration Lead / Git Workflow
 * Berdera Christian Joshua C. — Developer
 * John Rey Parma Lubos — Tester
 
