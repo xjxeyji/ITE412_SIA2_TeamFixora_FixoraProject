@@ -2,18 +2,18 @@
 
 ## 1. System Objectives
 
-Fixora aims to provide an integrated platform that connects customers who need vehicle repair and maintenance services with available mechanic shops.
+Fixora aims to provide an integrated platform that connects customers with mechanic shops for vehicle repair and maintenance services. The system is designed to organize service requests, bookings, shop information, and administrative monitoring in one platform.
 
 The main objectives of the system are:
 
-* To allow customers to request vehicle repair and maintenance services.
-* To allow customers to locate available mechanic shops.
-* To allow customers to submit vehicle problems and booking information.
-* To allow mechanic shops to receive and manage service requests.
-* To allow mechanic shops to update their information, services, availability, and location.
-* To allow administrators to monitor users, mechanic shops, bookings, and system activities.
-* To improve the organization and convenience of vehicle repair service transactions.
-* To demonstrate the proper use of system integration, databases, APIs, and version control.
+- To allow customers to submit vehicle repair and maintenance service requests.
+- To provide customers with information about available mechanic shops and their services.
+- To allow customers to provide details about their vehicle problems and booking requirements.
+- To allow mechanic shops to receive, manage, and update customer service requests.
+- To allow mechanic shops to manage their shop information, services, availability, and location.
+- To provide administrators with a centralized way to monitor users, mechanic shops, bookings, and system activities.
+- To improve the organization, accessibility, and monitoring of vehicle repair service transactions.
+- To demonstrate the integration of databases, APIs, system modules, and version control in a collaborative software project.
 
 ## 2. Proposed Scope
 
