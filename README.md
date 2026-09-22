@@ -18,6 +18,10 @@ Fixora is a vehicle repair and mechanic service integration system designed to c
 
 The system aims to provide a more organized and convenient way for customers and mechanic shops to manage vehicle repair service transactions.
 
+## Team Contribution
+
+Christian Joshua Berdera contributed to the initial project repository setup, documentation, and GitHub version control workflow.
+
 ## Repository Structure
 
 ```text
