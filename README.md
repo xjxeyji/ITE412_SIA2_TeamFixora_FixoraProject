@@ -8,7 +8,7 @@
 
 * Berdera, Christian Joshua C. — Team Lead
 * Ramos Leamei — Documentation Lead
-* Cindy Lozano — Integration Lead
+* Cindy Lozano — Integration Lead / Git Workflow
 * Berdera Christian Joshua C. — Developer
 * John Rey Parma Lubos — Tester
 
@@ -20,11 +20,14 @@ The system aims to provide a more organized and convenient way for customers and
 
 ## Team Contribution
 
-Christian Joshua Berdera contributed to the initial project repository setup, documentation, and GitHub version control workflow.
+Christian Joshua Berdera Served as the Project Lead and handled the initial GitHub repository setup. He created and organized the Git repository, established the main branch, and guided the team in using the Git and GitHub workflow.
 
-## Team Contribution
+Leamie Ramos Served as the Documentation Lead. She prepared and updated the project documentation and also performed the necessary Git commands for creating branches, adding files, committing changes, and pushing updates to the repository.
 
-Christian Joshua Berdera contributed to the project repository setup, documentation, and GitHub version control workflow.
+Cindy Lozano Assisted with the Git and GitHub workflow by performing the necessary Git commands, managing repository updates, and supporting the integration and collaboration process.
+
+John Rey Parma Lubos Assisted with the Git and GitHub workflow by performing the necessary Git commands, contributing to repository updates, and supporting the team's testing and collaboration activities.
+
 
 ## Repository Structure
 

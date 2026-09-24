@@ -2,7 +2,7 @@
 
 ## 1. System Objectives
 
-Fixora is an integrated service platform designed to connect motorists who need vehicle repair and maintenance services with available mechanic shops.
+Fixora is an integrated service platform designed to connect motorists with mechanic shops for vehicle repair and maintenance services. The system efficiently organizes service requests, bookings, shop information, and administrative monitoring in a single platform.
 
 The system aims to:
 
