@@ -1,6 +1,6 @@
 # Fixora – Vehicle Repair and Mechanic Service Integration System
 
-**Course:** ITP41E – System Integration and Architecture 2
+**Course:** ITP412 – System Integration and Architecture 2
 **Team Name:** Team Fixora
 **Repository:** https://github.com/xjxeyji/ITE412_SIA2_TeamFixora_FixoraProject
 
