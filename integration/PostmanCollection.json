@@ -1,0 +1,31 @@
+const { enqueue } = require('./queue');
+
+const loanRequests = [
+    {
+        borrower: 'Juan Dela Cruz',
+        amount: 25000,
+        term: 12
+    },
+    {
+        borrower: 'Maria Santos',
+        amount: 50000,
+        term: 24
+    },
+    {
+        borrower: 'Pedro Cruz',
+        amount: 75000,
+        term: 12
+    }
+];
+
+console.log('=== LOAN MODULE - PRODUCER ===');
+
+loanRequests.forEach((loan) => {
+    enqueue(loan);
+
+    console.log(
+        `Loan request submitted: { borrower: "${loan.borrower}", amount: ${loan.amount}, term: ${loan.term} months }`
+    );
+});
+
+console.log('\nAll loan requests have been added to the queue.');
