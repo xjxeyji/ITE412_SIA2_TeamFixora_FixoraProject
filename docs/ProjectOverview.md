@@ -252,6 +252,15 @@ Verifies that mechanic shop locations are correctly displayed on the map and tha
 
 Evaluates whether the system meets the expected requirements and can be used effectively by its intended users.
 
+## Messaging Workflow
+
+The Lending System utilizes an in-memory Message Queue (Producer-Consumer architecture) to process loan approval requests asynchronously.
+
+1. **Loan Module (Producer):** Receives loan request details (`borrower`, `amount`, `term`) and pushes the payload directly into the processing queue.
+2. **Message Queue:** Acts as a buffer to store incoming request objects sequentially (FIFO).
+3. **Approval Module (Consumer):** Asynchronously fetches requests from the queue, executes auto-approval logic (`amount <= 50000` is Approved, otherwise Rejected), and updates request statuses without blocking system performance.
+Step 3: I-commit at I-push sa GitHub Branch Mo
+
 ---
 
 # 11. Expected System Outcome
