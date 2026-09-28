@@ -6,11 +6,18 @@
 
 ## Team Members & Roles
 
+<<<<<<< HEAD
 * Berdera, Christian Joshua C. — Team Lead
 * Ramos Leamei — Documentation Lead
 * Cindy Lozano — Integration Lead / Git Workflow
 * Berdera Christian Joshua C. — Developer
 * John Rey Parma Lubos — Tester
+=======
+* Berdera, Christian Joshua C. — Project Leader
+* Ramos Leamei — Documentation Lead
+* Cindy Lozano — Diagramer
+* John Rey Parma Lubos — Presenter
+>>>>>>> 394c184 (Group Position Updated)
 
 ## Project Summary
 
